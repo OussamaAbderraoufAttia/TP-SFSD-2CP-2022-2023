@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1672614222 source:c:\users\s\desktop\attia_oussamaabderraouf_g03_tp\attia_oussamaabderraouf_g03_tp\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bib.h"
+
+1672446007 c:\users\s\desktop\attia_oussamaabderraouf_g03_tp\attia_oussamaabderraouf_g03_tp\bib.h
+
+1672613088 source:c:\users\s\desktop\attia_oussamaabderraouf_g03_tp\attia_oussamaabderraouf_g03_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	<string.h>
+	<time.h>
+
